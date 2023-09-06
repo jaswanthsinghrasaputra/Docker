@@ -26,3 +26,6 @@ Networking:
 
 Orchestration with Docker Compose:
 - docker-compose.yml: A YAML file that orchestrates the deployment and configuration of these containers and networks.
+
+
+Just clone it and run "docker-compose up" to start the containers and "docker-compose down" to stop the spinning containers
